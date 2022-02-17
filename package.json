@@ -1,0 +1,25 @@
+{
+  "name": "projektarbete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaffetK/projektarbete.git"
+  },
+  "author": "Yaffet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaffetK/projektarbete/issues"
+  },
+  "homepage": "https://github.com/YaffetK/projektarbete#readme",
+  "description": "",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
